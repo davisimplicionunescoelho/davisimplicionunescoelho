@@ -28,6 +28,6 @@
 <div> 
   <a href = "mailto:davisimplicio104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/luizafurtadoportela/luizafurtadoportela/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/davisimplicionunescoelho/blob/output/github-contribution-grid-snake.svg)
  
 </div>
